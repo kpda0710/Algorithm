@@ -1,1 +1,4 @@
-백준 문제
+# Algorithm
+---
++ Baekjun
++ CodeUp
