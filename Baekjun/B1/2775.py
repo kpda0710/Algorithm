@@ -1,5 +1,4 @@
 import sys
-
 arr = {}
 for i in range(1, 15):
     arr[(0, i)] = i
