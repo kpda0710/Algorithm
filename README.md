@@ -1,4 +1,3 @@
 # Algorithm
 
 + Baekjun
-+ Programmers
